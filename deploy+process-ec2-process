@@ -1,4 +1,8 @@
 ""deploy process on ec2""
+root in side 
+cd  /home/ec2-user
+python-flask-project
+
 yum install python3-pip
 pip install -r requirements.txt
 python3 app.py
