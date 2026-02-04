@@ -33,7 +33,7 @@ jobs:
 
             # Clone repo first time, otherwise pull latest code
             if [ ! -d "python_flask-project" ]; then
-              git clone https://github.com/mahimapatel93/python_flask-project.git
+              git clone https://github.com/kashishsoni004/python-flask-project.git
             fi
 
             cd python_flask-project
